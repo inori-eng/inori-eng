@@ -64,10 +64,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=inori-eng&show_icons=true&theme=dracula" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inori-eng&hide_progress=true&theme=dracula" alt="Top Languages"/>
+　　　　<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inori-eng&hide=jupyter%20notebook,shaderlab,tex,c%23&theme=dracula" />
     </td>
   </tr>
 </table>
+
 
 ### 🏆 GitHub Trophy
 
